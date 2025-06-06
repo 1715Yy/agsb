@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "zxy1715"         # 用户名
 UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
-PORT = 49999                   # Vmess端口，留空或0则自动生成
+PORT = 3333                   # Vmess端口，留空或0则自动生成
 DOMAIN = "stre.cpaner.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiOTRmODRiYTU0YmIxODA1ZjIzYjhhODljNmQyNzM0YzciLCJ0IjoiY2JmODM1YTAtYzhkOC00NTc2LTliZjgtZmE0ZGM4MWUwNDVlIiwicyI6Ik1EVTFOR1UxWmpFdFkySXdaQzAwWVRZNExXSmlaV1l0TmpBNVptRTFNR0l4WkdaaCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
